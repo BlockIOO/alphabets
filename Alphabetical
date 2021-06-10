@@ -8,6 +8,16 @@ upper case
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 
+lower then upper case
+
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+
+upper then lower case
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+
+
 lower then upper case spliced
 
 aAbBcCdDeEfFgGhHiIjJkKlLmMnNoOpPqQrRsStTuUvVwWxXyYzZ
